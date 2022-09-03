@@ -43,4 +43,4 @@
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## Certification
-![https://www.credly.com/earner/earned/badge/6f985c51-2dce-41d9-b1e4-1afdd42dae2e](badge-coding-bootcamp-trilogy.png)
+<a href="https://www.credly.com/earner/earned/badge/6f985c51-2dce-41d9-b1e4-1afdd42dae2e" target="blank"><img src="badge-coding-bootcamp-trilogy.png" height=200></a>
