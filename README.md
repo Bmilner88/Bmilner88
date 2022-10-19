@@ -1,11 +1,9 @@
 # Hello there!
 
 ## Currently Working On
-[Skyscape](https://bm-skyscape.onrender.com/)
-
 [Regal]() -- (Link coming soon)
 
-[Pick Up A Piece](https://pickupapiece.com/)
+[Pick Up A Piece](https://pickupapiece.com/) -- (Link coming soon)
 
 ## Currently learning
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
