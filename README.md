@@ -1,7 +1,7 @@
 # Hello there!
 
 ## Currently Working On
-[Pick Up A Piece](https://pickupapiece.com/)
+[Pick Up A Piece](https://www.pickupapiece.com/)
 
 ## Currently learning
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
