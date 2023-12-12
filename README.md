@@ -37,10 +37,13 @@
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-### IT Experience
+## IT Experience
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## Certification
 <a href="https://www.credly.com/badges/6f985c51-2dce-41d9-b1e4-1afdd42dae2e/public_url" target="blank"><img src="badge-coding-bootcamp-trilogy.png" height=200></a>
+
+## Code Wars
+![](https://www.codewars.com/users/Bmilner88/badges/large)
